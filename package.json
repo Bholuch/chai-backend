@@ -10,7 +10,7 @@
   "license": "ISC",
   "author": "\"Prapti\"",
   "type": "module",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
